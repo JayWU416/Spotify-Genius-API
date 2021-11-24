@@ -4,5 +4,4 @@ Want to sing along? Choose the link under the album cover image to use Genius AP
 Languages used: Python, HTML, CSS
 
 
-This project was deployed on Heroku
-Heroku URL: https://safe-plateau-32667.herokuapp.com/
+This project was deployed on Heroku, URL: https://safe-plateau-32667.herokuapp.com/
