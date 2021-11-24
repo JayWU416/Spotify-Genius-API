@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <Title>Song Names</Title>
+    <link rel="stylesheet" type="text/css" href={{ url_for('static', filename='style.css') }}>
+</head>
+
+<body>
+    <h1>{{songtitles}}</h1>
+    <h3>by {{songartists}}</h3>
+    <img src="{{songimgs}}" alt="Album Image">
+    <audio controls>
+        <source src="{{songprevs}}">
+    </audio>
+    <div>
+        <a href={{songlyrics}}>Click Here Sing Along</a>
+    </div>
+</body>
+
+</html>
